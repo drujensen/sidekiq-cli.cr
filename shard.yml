@@ -13,12 +13,3 @@ dependencies:
   pool:
     github: ysbaddaden/pool
     version: ~> 0.2.3
-  kemal:
-    github: kemalcr/kemal
-    version: ~> 0.18.3
-  kemal-csrf:
-    github: kemalcr/kemal-csrf
-    version: ~> 0.2.0
-  baked_file_system:
-    github: schovi/baked_file_system
-    version: ~> 0.9.4
