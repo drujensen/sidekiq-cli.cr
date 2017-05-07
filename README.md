@@ -1,3 +1,7 @@
+# Sidekiq-cli.cr
+
+This is a fork of Sidekiq.cr that removes the web and its dependencies.
+
 # Sidekiq.cr
 
 Sidekiq is a well-regarded background job framework for Ruby.  Now we're
